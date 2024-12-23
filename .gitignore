@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+.venv/
+venv/
+
+# Ignore Keys
+key_const.py
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+
+# Ignore system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+*.tmp
